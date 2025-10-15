@@ -1,0 +1,9 @@
+__pycache__
+scripts/
+data/
+checkpoints/
+test*.py
+notes.md
+test.ipynb
+preprocessing/order.md
+data.ipynb
